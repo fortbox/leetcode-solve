@@ -8,10 +8,6 @@ public class Solution {
 		System.out.println(addBinary(a, b));
 	}
 
-	/***
-	 * 最基本的思考逻辑，按位相加，然后游标标记进位。
-	 * 
-	 */
 	public static String addBinary(String a, String b) {
 		int ia = a.length() - 1;
 		int ib = b.length() - 1;

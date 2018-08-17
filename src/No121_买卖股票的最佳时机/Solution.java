@@ -35,7 +35,7 @@ public class Solution {
 	}
 	
 	/**
-	 * 第二种方法，判断后面的相邻两个相差大于0，才相加，要不然后移。
+	 * 第二种方法，一个循环实现两个判断
 	 * @param prices
 	 * @return
 	 */

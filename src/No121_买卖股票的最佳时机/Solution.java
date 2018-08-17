@@ -41,10 +41,10 @@ public class Solution {
 	 */
 	public int maxProfit1(int[] prices) {
 		int maxProfit = 0;
-		int minIndex=0;
+		int min=prices[0];
 		for (int i = 1; i < prices.length; i++) {
-			maxProfit=Math.max(maxProfit, prices[i]-prices[minIndex]);
-			minIndex=(prices[i]-prices[minIndex])>0?minIndex:i;
+			maxProfit=Math.max(maxProfit, prices[i]-min);
+			min=Math.min(prices[i], min);
 		}
 		return maxProfit;
 	}

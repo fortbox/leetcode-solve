@@ -3,6 +3,12 @@
 *.classpath
 .settings\
 bin\
+<<<<<<< HEAD
 *.prefs
 *.class
 org.eclipse.core.resources.prefs
+||||||| merged common ancestors
+*.prefs
+*.class
+=======
+>>>>>>> ec10294890e140612bb043d969f9eb47cc490fd5

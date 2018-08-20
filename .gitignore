@@ -1,7 +1,7 @@
 *.class
 *.project
 *.classpath
-\.settings\
+.settings\
 \bin\
 *.prefs
 org.eclipse.core.resources.prefs

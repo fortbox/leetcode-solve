@@ -5,3 +5,4 @@
 bin\
 *.prefs
 *.class
+org.eclipse.core.resources.prefs

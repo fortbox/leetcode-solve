@@ -6,5 +6,6 @@
 *.prefs
 org.eclipse.core.resources.prefs
 Solution.class
+crab_file
 
 

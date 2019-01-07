@@ -1,7 +1,7 @@
 *.class
 *.project
 *.classpath
-.settings\
+.settings
 \bin\
 *.prefs
 org.eclipse.core.resources.prefs
@@ -9,6 +9,6 @@ Solution.class
 crab_file
 .metadata
 .class
-
+.settings
 
 

@@ -16,10 +16,12 @@ public class MinStack {
     }
     
     public int top() {
+		return 0;
         
     }
     
     public int getMin() {
+		return 0;
         
     }
 }

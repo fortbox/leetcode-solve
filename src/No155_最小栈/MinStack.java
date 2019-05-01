@@ -1,27 +1,37 @@
 package No155_最小栈;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class MinStack {
 	/** initialize your data structure here. */
+	List<Integer> list = new ArrayList<>();
     public MinStack() {
-        
     }
     
     public void push(int x) {
-        
-        
+        list.add(x);
+        System.out.println("push:"+list.toString());
     }
     
     public void pop() {
-        
+    	System.out.println("pop():"+list.toString());
+        list.remove(list.size()-1);
     }
     
     public int top() {
-		return 0;
+    	System.out.println("top():"+list.toString());
+		return list.get(list.size()-1).intValue();
         
     }
     
     public int getMin() {
-		return 0;
+    	List<Integer> listnew=new ArrayList<>(list);
+    	listnew.sort(null);
+    	System.out.println("getMin():"+listnew.toString());
+    	System.out.println("getMin():"+list.toString());
+		return listnew.get(0);
         
     }
 }

@@ -3,7 +3,7 @@ package No168_Excel表名称;
 public class Solution {
 
 	public static void main(String[] args) {
-		int n = 52;
+		int n = 12321479;
 		Solution solution = new Solution();
 		System.out.println(solution.convertToTitle(n));
 		System.out.println(solution.convert(n));

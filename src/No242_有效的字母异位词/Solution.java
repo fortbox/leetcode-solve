@@ -11,6 +11,10 @@ public class Solution {
 		list.add(1);
 		list.add(1);
 		System.out.println(list.toString());
+		List<Integer> list1 = new ArrayList<Integer>();
+		list1.add(1);
+		list.removeAll(list1);
+		System.out.println(list.toString());
 	}
 
 	public boolean isAnagram(String s, String t) {

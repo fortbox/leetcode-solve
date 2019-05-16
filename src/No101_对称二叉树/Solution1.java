@@ -1,4 +1,4 @@
-package N0101_对称二叉树;
+package No101_对称二叉树;
 
 public class Solution1 {
 	/**

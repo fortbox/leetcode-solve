@@ -5,46 +5,21 @@ public class Solution {
 	public static void main(String[] args) {
 
 		Solution solution = new Solution();
-		System.out.println(solution.toHex(17777));
+		System.out.println(solution.toHex(-2));
+//		System.out.println(0xffffffff + Integer.valueOf(solution.toHex(1)).intValue());
 	}
-	
+
 	public String toHex(int num) {
-		String s="";
-		int k=num/16;
-		int m=num%16;
-		if (k<16) {
-			s=s+this.redirect(k);
-		}else {
-			s=toHex(k)+s;
+		if (num == 0) {
+			return "0";
 		}
-		s=s+this.redirect(m);
+		char[] ca = { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f' };
+		String s = "";
+		while (num != 0) {
+			s = ca[num & 0xf]+s;
+			num = (num >>> 4);
+		}
 		return s;
-		
-	}
-	
-	private String redirect(int n) {
-		if (n<10) {
-			return String.valueOf(n);
-		}
-		if (n==10) {
-			return "a";
-		}
-		if (n==11) {
-			return "b";
-		}
-		if (n==12) {
-			return "c";
-		}
-		if (n==13) {
-			return "d";
-		}
-		if (n==14) {
-			return "e";
-		}
-		if (n==15) {
-			return "f";
-		}
-		return null;
 	}
 
 }

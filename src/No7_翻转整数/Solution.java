@@ -1,13 +1,13 @@
 package No7_翻转整数;
 
-import java.math.BigDecimal;
-
 public class Solution {
 
 	public static void main(String[] args) {
 		int a=-2147483648;
 		a=reverse(a);
 		System.out.println(a);
+
+
 
 	}
 	

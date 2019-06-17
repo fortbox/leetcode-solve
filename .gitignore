@@ -9,6 +9,8 @@ Solution.class
 crab_file
 .metadata
 .class
+.gitignore
 .settings
-
+\.idea
+.iml
 

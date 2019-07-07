@@ -1,6 +1,6 @@
 *.class
-#*.project
-#*.classpath
+*.project
+*.classpath
 .settings
 \bin\
 *.prefs

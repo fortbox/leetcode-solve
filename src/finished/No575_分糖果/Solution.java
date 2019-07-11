@@ -1,4 +1,4 @@
-package No575_分糖果;
+package finished.No575_分糖果;
 
 import java.util.HashSet;
 

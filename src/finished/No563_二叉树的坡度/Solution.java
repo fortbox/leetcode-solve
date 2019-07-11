@@ -1,4 +1,4 @@
-package No563_二叉树的坡度;
+package finished.No563_二叉树的坡度;
 
 
 class Solution {

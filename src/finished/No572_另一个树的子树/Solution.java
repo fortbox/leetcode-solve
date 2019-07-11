@@ -1,4 +1,4 @@
-package No572_另一个树的子树;
+package finished.No572_另一个树的子树;
 
 
 class Solution {

@@ -1,4 +1,4 @@
-package No594_最长和谐子序列;
+package finished.No594_最长和谐子序列;
 
 import java.util.HashMap;
 import java.util.Map;

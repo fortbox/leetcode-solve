@@ -1,4 +1,4 @@
-package No589_N叉树的前序遍历;
+package finished.No589_N叉树的前序遍历;
 
 
 import java.util.ArrayList;

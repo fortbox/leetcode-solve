@@ -1,4 +1,4 @@
-package No581_最短无序连续子数组;
+package finished.No581_最短无序连续子数组;
 
 import java.util.Arrays;
 

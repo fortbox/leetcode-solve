@@ -1,4 +1,4 @@
-package No598_范围求和II;
+package finished.No598_范围求和II;
 
 public class Solution {
     public static void main(String[] args) {

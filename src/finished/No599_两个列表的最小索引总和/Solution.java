@@ -1,4 +1,4 @@
-package No599_两个列表的最小索引总和;
+package finished.No599_两个列表的最小索引总和;
 
 import java.util.ArrayList;
 

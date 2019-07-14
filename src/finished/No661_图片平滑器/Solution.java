@@ -1,4 +1,4 @@
-package No661_图片平滑器;
+package finished.No661_图片平滑器;
 
 public class Solution {
     public int[][] imageSmoother(int[][] M) {

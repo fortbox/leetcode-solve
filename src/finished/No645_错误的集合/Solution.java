@@ -1,4 +1,4 @@
-package No645_错误的集合;
+package finished.No645_错误的集合;
 
 public class Solution {
     public int[] findErrorNums(int[] nums) {

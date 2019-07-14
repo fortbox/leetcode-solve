@@ -1,4 +1,4 @@
-package No665_非递减数列;
+package finished.No665_非递减数列;
 
 class Solution {
     public boolean checkPossibility(int[] nums) {

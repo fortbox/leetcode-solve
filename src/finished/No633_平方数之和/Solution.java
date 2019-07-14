@@ -1,4 +1,4 @@
-package No633_平方数之和;
+package finished.No633_平方数之和;
 
 public class Solution {
     /**

@@ -1,4 +1,4 @@
-package No628_三个数的最大乘积;
+package finished.No628_三个数的最大乘积;
 
 import java.util.Arrays;
 

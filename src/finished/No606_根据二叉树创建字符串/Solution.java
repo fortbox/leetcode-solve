@@ -1,4 +1,4 @@
-package No606_根据二叉树创建字符串;
+package finished.No606_根据二叉树创建字符串;
 
 
 import java.util.Stack;

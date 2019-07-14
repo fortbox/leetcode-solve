@@ -1,4 +1,4 @@
-package No643_子数组最大平均数I;
+package finished.No643_子数组最大平均数I;
 
 public class Solution {
     /**

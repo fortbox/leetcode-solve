@@ -1,4 +1,4 @@
-package No669_修剪二叉搜索树;
+package finished.No669_修剪二叉搜索树;
 
 
 class Solution {

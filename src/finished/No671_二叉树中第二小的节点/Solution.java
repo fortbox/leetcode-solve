@@ -1,4 +1,4 @@
-package No671_二叉树中第二小的节点;
+package finished.No671_二叉树中第二小的节点;
 
 
 import java.util.Arrays;

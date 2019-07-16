@@ -1,4 +1,4 @@
-package No674_最长连续递增序列;
+package finished.No674_最长连续递增序列;
 
 class Solution {
     public int findLengthOfLCIS(int[] nums) {

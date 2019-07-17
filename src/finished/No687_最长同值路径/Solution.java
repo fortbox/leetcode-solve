@@ -1,4 +1,4 @@
-package No687_最长同值路径;
+package finished.No687_最长同值路径;
 
 
 class Solution {

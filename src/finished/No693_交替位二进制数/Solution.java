@@ -1,4 +1,4 @@
-package No693_交替位二进制数;
+package finished.No693_交替位二进制数;
 
 class Solution {
     public boolean hasAlternatingBits(int n) {

@@ -1,4 +1,4 @@
-package No696_计数二进制子串;
+package finished.No696_计数二进制子串;
 
 class Solution {
     public int countBinarySubstrings(String s) {

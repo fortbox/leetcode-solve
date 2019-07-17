@@ -1,4 +1,4 @@
-package No682_棒球比赛;
+package finished.No682_棒球比赛;
 
 import java.util.ArrayList;
 

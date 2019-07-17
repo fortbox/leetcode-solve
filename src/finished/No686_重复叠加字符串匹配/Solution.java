@@ -1,4 +1,4 @@
-package No686_重复叠加字符串匹配;
+package finished.No686_重复叠加字符串匹配;
 
 class Solution {
     public int repeatedStringMatch(String A, String B) {

@@ -1,4 +1,4 @@
-package No697_数组的度;
+package finished.No697_数组的度;
 
 import java.util.ArrayList;
 import java.util.HashMap;

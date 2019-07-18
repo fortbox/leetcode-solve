@@ -1,6 +1,6 @@
 /**  
  * All rights Reserved, Designed By henryxiao
- * @Title:  Solution.java   
+ * @Title:  Solution.java
  * @Package finished.No204_计数质数
  * @Description:    TODO(用一句话描述该文件做什么)   
  * @author: henryxiao    

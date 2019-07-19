@@ -10,7 +10,8 @@ crab_file
 .metadata
 .class
 .gitignore
-.settings
 \.idea
 .iml
 
+/leetcode.iml
+bin/

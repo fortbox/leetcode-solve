@@ -1,4 +1,4 @@
-package No704_二分查找;
+package finished.No704_二分查找;
 
 class Solution {
     public static void main(String[] args) {

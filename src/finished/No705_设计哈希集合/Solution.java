@@ -1,4 +1,4 @@
-package No705_设计哈希集合;
+package finished.No705_设计哈希集合;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

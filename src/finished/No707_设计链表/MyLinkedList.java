@@ -1,4 +1,4 @@
-package No707_设计链表;
+package finished.No707_设计链表;
 
 class MyLinkedList {
 

@@ -1,7 +1,4 @@
-package No706_设计哈希映射;
-
-import java.util.ArrayList;
-import java.util.List;
+package finished.No706_设计哈希映射;
 
 class MyHashMap {
     int[] a;

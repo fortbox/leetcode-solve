@@ -1,4 +1,4 @@
-package No746_使用最小花费爬楼梯;
+package finished.No746_使用最小花费爬楼梯;
 
 class Solution {
     public int minCostClimbingStairs(int[] cost) {

@@ -1,4 +1,4 @@
-package No744_寻找比目标字母大的最小字母;
+package finished.No744_寻找比目标字母大的最小字母;
 
 class Solution {
     public char nextGreatestLetter(char[] letters, char target) {

@@ -1,4 +1,4 @@
-package No733_图像渲染;
+package finished.No733_图像渲染;
 
 class Solution {
 

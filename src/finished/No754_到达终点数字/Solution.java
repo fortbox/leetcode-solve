@@ -1,4 +1,4 @@
-package No754_到达终点数字;
+package finished.No754_到达终点数字;
 
 class Solution {
     public int reachNumber(int target) {

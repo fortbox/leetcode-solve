@@ -1,4 +1,4 @@
-package No748_最短完整词;
+package finished.No748_最短完整词;
 
 class Solution {
     public static void main(String[] args) {

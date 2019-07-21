@@ -1,4 +1,4 @@
-package No728_自除数;
+package finished.No728_自除数;
 
 import java.util.ArrayList;
 import java.util.List;

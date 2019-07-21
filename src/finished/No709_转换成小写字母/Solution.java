@@ -1,4 +1,4 @@
-package No709_转换成小写字母;
+package finished.No709_转换成小写字母;
 
 class Solution {
     public String toLowerCase(String str) {

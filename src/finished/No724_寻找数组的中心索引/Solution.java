@@ -1,4 +1,4 @@
-package No724_寻找数组的中心索引;
+package finished.No724_寻找数组的中心索引;
 
 class Solution {
     public static void main(String[] args) {

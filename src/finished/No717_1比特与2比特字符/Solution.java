@@ -1,4 +1,4 @@
-package No717_1比特与2比特字符;
+package finished.No717_1比特与2比特字符;
 
 class Solution {
     public boolean isOneBitCharacter(int[] bits) {

@@ -1,6 +1,5 @@
-package No720_词典中最长的单词;
+package finished.No720_词典中最长的单词;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
 

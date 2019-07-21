@@ -13,5 +13,5 @@ crab_file
 \.idea
 .iml
 
-/leetcode.iml
+leetcode.iml
 bin/

@@ -1,4 +1,4 @@
-package No766_托普利茨矩阵;
+package finished.No766_托普利茨矩阵;
 
 class Solution {
     public boolean isToeplitzMatrix(int[][] matrix) {

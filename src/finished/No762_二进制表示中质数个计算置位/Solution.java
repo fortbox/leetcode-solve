@@ -1,4 +1,4 @@
-package No762_二进制表示中质数个计算置位;
+package finished.No762_二进制表示中质数个计算置位;
 
 import java.util.ArrayList;
 

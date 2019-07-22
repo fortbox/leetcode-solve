@@ -1,4 +1,4 @@
-package No784_字母大小写全排列;
+package finished.No784_字母大小写全排列;
 
 import java.util.ArrayList;
 import java.util.List;

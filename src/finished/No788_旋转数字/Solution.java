@@ -1,4 +1,4 @@
-package No788_旋转数字;
+package finished.No788_旋转数字;
 
 class Solution {
     public int rotatedDigits(int N) {

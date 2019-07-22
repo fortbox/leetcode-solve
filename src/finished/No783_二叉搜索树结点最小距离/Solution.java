@@ -1,4 +1,4 @@
-package No783_二叉搜索树结点最小距离;
+package finished.No783_二叉搜索树结点最小距离;
 
 /**
  * Definition for a binary tree node.

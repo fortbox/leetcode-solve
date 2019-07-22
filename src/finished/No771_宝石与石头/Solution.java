@@ -1,4 +1,4 @@
-package No771_宝石与石头;
+package finished.No771_宝石与石头;
 
 import java.util.HashSet;
 

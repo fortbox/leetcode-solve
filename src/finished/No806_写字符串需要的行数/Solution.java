@@ -1,4 +1,4 @@
-package No806_写字符串需要的行数;
+package finished.No806_写字符串需要的行数;
 
 class Solution {
     public int[] numberOfLines(int[] widths, String S) {

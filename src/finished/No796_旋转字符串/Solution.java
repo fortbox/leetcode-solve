@@ -1,4 +1,4 @@
-package No796_旋转字符串;
+package finished.No796_旋转字符串;
 
 class Solution {
     public boolean rotateString(String A, String B) {

@@ -1,4 +1,4 @@
-package No804_唯一摩尔斯密码词;
+package finished.No804_唯一摩尔斯密码词;
 
 import java.util.HashSet;
 import java.util.Set;

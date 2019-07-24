@@ -1,4 +1,4 @@
-package No821_字符的最短距离;
+package finished.No821_字符的最短距离;
 
 class Solution {
     public int[] shortestToChar(String S, char C) {

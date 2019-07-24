@@ -1,4 +1,4 @@
-package No824_山羊拉丁文;
+package finished.No824_山羊拉丁文;
 
 import java.util.HashSet;
 

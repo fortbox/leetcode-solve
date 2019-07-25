@@ -1,4 +1,4 @@
-package No830_较大分组的位置;
+package finished.No830_较大分组的位置;
 
 import java.util.ArrayList;
 import java.util.List;

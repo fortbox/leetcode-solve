@@ -1,4 +1,4 @@
-package No832_翻转图像;
+package finished.No832_翻转图像;
 
 class Solution {
     public int[][] flipAndInvertImage(int[][] A) {

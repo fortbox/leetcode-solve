@@ -1,4 +1,4 @@
-package No836_矩形重叠;
+package finished.No836_矩形重叠;
 
 class Solution {
     public boolean isRectangleOverlap(int[] rec1, int[] rec2) {

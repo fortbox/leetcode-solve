@@ -1,7 +1,6 @@
-package No840_矩阵中的幻方;
+package finished.No840_矩阵中的幻方;
 
 import java.util.Arrays;
-import java.util.HashSet;
 
 class Solution {
     public int numMagicSquaresInside(int[][] grid) {

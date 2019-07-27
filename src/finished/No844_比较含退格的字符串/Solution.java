@@ -1,4 +1,4 @@
-package No844_比较含退格的字符串;
+package finished.No844_比较含退格的字符串;
 
 class Solution {
     public static void main(String[] args) {

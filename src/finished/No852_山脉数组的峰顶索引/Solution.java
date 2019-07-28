@@ -1,4 +1,4 @@
-package No852_山脉数组的峰顶索引;
+package finished.No852_山脉数组的峰顶索引;
 
 class Solution {
     public int peakIndexInMountainArray(int[] A) {

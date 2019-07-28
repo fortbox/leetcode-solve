@@ -1,4 +1,4 @@
-package No849_到最近的人的最大距离;
+package finished.No849_到最近的人的最大距离;
 
 class Solution {
     public int maxDistToClosest(int[] seats) {

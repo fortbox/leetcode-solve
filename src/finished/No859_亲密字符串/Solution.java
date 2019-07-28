@@ -1,4 +1,4 @@
-package No859_亲密字符串;
+package finished.No859_亲密字符串;
 
 import java.util.ArrayList;
 import java.util.Arrays;

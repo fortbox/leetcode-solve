@@ -1,4 +1,4 @@
-package No867_转置矩阵;
+package finished.No867_转置矩阵;
 
 class Solution {
     public int[][] transpose(int[][] A) {

@@ -1,4 +1,4 @@
-package No868_二进制间距;
+package finished.No868_二进制间距;
 
 class Solution {
     public static void main(String[] args) {

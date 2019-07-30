@@ -1,4 +1,4 @@
-package No874_模拟行走机器人;
+package finished.No874_模拟行走机器人;
 
 import java.util.HashSet;
 

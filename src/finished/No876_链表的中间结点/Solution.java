@@ -1,4 +1,4 @@
-package No876_链表的中间结点;
+package finished.No876_链表的中间结点;
 
 
 class Solution {

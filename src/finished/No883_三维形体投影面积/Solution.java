@@ -1,4 +1,4 @@
-package No883_三维形体投影面积;
+package finished.No883_三维形体投影面积;
 
 class Solution {
     public static void main(String[] args) {

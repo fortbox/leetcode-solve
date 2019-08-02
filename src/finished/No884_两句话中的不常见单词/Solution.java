@@ -1,4 +1,4 @@
-package No884_两句话中的不常见单词;
+package finished.No884_两句话中的不常见单词;
 
 import java.util.ArrayList;
 import java.util.HashMap;

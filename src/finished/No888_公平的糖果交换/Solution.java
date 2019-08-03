@@ -1,4 +1,4 @@
-package No888_公平的糖果交换;
+package finished.No888_公平的糖果交换;
 
 class Solution {
     public static void main(String[] args) {

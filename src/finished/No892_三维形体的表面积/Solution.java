@@ -1,4 +1,4 @@
-package No892_三维形体的表面积;
+package finished.No892_三维形体的表面积;
 
 class Solution {
     public static void main(String[] args) {

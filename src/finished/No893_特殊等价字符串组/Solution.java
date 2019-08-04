@@ -1,5 +1,3 @@
-package No893_特殊等价字符串组;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;

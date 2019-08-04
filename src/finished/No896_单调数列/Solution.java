@@ -1,4 +1,4 @@
-package No896_单调数列;
+package finished.No896_单调数列;
 
 class Solution {
     public boolean isMonotonic(int[] A) {

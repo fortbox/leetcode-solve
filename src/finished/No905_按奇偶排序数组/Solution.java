@@ -1,4 +1,4 @@
-package No905_按奇偶排序数组;
+package finished.No905_按奇偶排序数组;
 
 class Solution {
     public int[] sortArrayByParity(int[] A) {

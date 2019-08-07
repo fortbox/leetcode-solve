@@ -1,4 +1,4 @@
-package No908_最小差值I;
+package finished.No908_最小差值I;
 
 import java.util.Arrays;
 

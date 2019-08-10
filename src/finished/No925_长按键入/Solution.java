@@ -1,4 +1,4 @@
-package No925_长按键入;
+package finished.No925_长按键入;
 
 class Solution {
     public boolean isLongPressedName(String name, String typed) {

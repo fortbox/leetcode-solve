@@ -1,4 +1,4 @@
-package No938_二叉搜索树的范围和;
+package finished.No938_二叉搜索树的范围和;
 
 
 class Solution {

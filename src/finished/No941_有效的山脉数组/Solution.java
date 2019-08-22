@@ -1,5 +1,3 @@
-package No941_有效的山脉数组;
-
 class Solution {
 
 

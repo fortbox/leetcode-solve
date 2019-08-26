@@ -1,4 +1,4 @@
-package No942_增减字符串匹配;
+package finished.No942_增减字符串匹配;
 
 class Solution {
     public int[] diStringMatch(String S) {

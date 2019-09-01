@@ -1,4 +1,4 @@
-package No944_删列造序;
+package finished.No944_删列造序;
 
 class Solution {
     public int minDeletionSize(String[] A) {

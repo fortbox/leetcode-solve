@@ -1,4 +1,4 @@
-package No970_强整数;
+package finished.No970_强整数;
 
 import java.util.ArrayList;
 import java.util.Collections;

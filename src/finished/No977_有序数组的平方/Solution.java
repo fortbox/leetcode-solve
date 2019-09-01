@@ -1,4 +1,4 @@
-package No977_有序数组的平方;
+package finished.No977_有序数组的平方;
 
 import java.util.Arrays;
 

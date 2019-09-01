@@ -1,4 +1,4 @@
-package No961_重复N次的元素;
+package finished.No961_重复N次的元素;
 
 import java.util.HashSet;
 

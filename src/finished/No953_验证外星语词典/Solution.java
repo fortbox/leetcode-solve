@@ -1,4 +1,4 @@
-package No953_验证外星语词典;
+package finished.No953_验证外星语词典;
 
 class Solution {
     public boolean isAlienSorted(String[] words, String order) {

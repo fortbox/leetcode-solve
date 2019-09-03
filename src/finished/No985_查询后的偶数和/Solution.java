@@ -1,4 +1,4 @@
-package No985_查询后的偶数和;
+package finished.No985_查询后的偶数和;
 
 import java.util.ArrayList;
 

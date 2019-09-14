@@ -1,4 +1,4 @@
-package No997_找到小镇的法官;
+package finished.No997_找到小镇的法官;
 
 import java.util.ArrayList;
 import java.util.HashMap;

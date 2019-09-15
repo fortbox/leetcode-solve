@@ -1,4 +1,4 @@
-package No1005_k次取反后最大化的数组和;
+package finished.No1005_k次取反后最大化的数组和;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package No1021_删除最外层的括号;
+package finished.No1021_删除最外层的括号;
 
 import java.util.ArrayList;
 import java.util.Stack;

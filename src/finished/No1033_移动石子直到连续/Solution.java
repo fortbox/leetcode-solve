@@ -1,4 +1,4 @@
-package No1033_移动石子直到连续;
+package finished.No1033_移动石子直到连续;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package No1030_距离顺序排列矩阵单元格;
+package finished.No1030_距离顺序排列矩阵单元格;
 
 import java.util.*;
 

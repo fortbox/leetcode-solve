@@ -1,4 +1,4 @@
-package No1022_从根到叶的二进制数之和;
+package finished.No1022_从根到叶的二进制数之和;
 
 
 class Solution {

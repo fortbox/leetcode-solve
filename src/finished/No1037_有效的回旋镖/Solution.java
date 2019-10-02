@@ -1,4 +1,4 @@
-package No1037_有效的回旋镖;
+package finished.No1037_有效的回旋镖;
 
 import java.util.Arrays;
 

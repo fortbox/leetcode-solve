@@ -1,4 +1,4 @@
-package No1042_不邻接植花;
+package finished.No1042_不邻接植花;
 
 
 import java.util.ArrayList;

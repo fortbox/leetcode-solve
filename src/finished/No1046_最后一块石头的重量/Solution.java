@@ -1,4 +1,4 @@
-package No1046_最后一块石头的重量;
+package finished.No1046_最后一块石头的重量;
 
 import java.util.*;
 

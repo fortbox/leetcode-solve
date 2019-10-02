@@ -1,4 +1,4 @@
-package No1047_删除字符串中的所有相邻重复项;
+package finished.No1047_删除字符串中的所有相邻重复项;
 
 class Solution {
     public static void main(String[] args) {

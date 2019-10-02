@@ -1,4 +1,4 @@
-package No1041_困于环中的机器人;
+package finished.No1041_困于环中的机器人;
 
 class Solution {
 

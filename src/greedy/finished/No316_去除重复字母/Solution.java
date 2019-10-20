@@ -1,4 +1,4 @@
-package greedy.No316_去除重复字母;
+package greedy.finished.No316_去除重复字母;
 
 import java.util.Arrays;
 

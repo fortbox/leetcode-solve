@@ -1,4 +1,4 @@
-package greedy.No321_拼接最大数;
+package greedy.finished.No321_拼接最大数;
 
 class Solution {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package greedy.No330_按要求补齐数组;
+package greedy.finished.No330_按要求补齐数组;
 
 class Solution {
     public int minPatches(int[] nums, int n) {

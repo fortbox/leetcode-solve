@@ -1,4 +1,4 @@
-package greedy.No376_摆动序列;
+package greedy.finished.No376_摆动序列;
 
 class Solution {
     public int wiggleMaxLength(int[] nums) {

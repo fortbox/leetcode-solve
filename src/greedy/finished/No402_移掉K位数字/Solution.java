@@ -1,4 +1,4 @@
-package greedy.No402_移掉K位数字;
+package greedy.finished.No402_移掉K位数字;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package greedy.No406_根据身高重建队列;
+package greedy.finished.No406_根据身高重建队列;
 
 import java.util.ArrayList;
 import java.util.Arrays;

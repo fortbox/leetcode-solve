@@ -1,4 +1,4 @@
-package greedy.No452_用最少数量的箭引爆气球;
+package greedy.finished.No452_用最少数量的箭引爆气球;
 
 import java.util.Arrays;
 

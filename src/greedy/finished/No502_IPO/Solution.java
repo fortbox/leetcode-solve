@@ -1,4 +1,4 @@
-package greedy.No502_IPO;
+package greedy.finished.No502_IPO;
 
 import java.util.ArrayList;
 import java.util.Arrays;

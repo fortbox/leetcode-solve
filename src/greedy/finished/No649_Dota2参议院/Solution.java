@@ -1,4 +1,4 @@
-package greedy.No649_Dota2参议院;
+package greedy.finished.No649_Dota2参议院;
 
 public class Solution {
     public String predictPartyVictory(String senate) {

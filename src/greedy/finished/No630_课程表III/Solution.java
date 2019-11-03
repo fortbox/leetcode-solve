@@ -1,4 +1,4 @@
-package greedy.No630_课程表III;
+package greedy.finished.No630_课程表III;
 
 import java.util.Arrays;
 import java.util.Comparator;

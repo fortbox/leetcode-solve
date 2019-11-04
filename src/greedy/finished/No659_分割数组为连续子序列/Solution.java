@@ -1,4 +1,4 @@
-package greedy.No659_分割数组为连续子序列;
+package greedy.finished.No659_分割数组为连续子序列;
 
 import java.util.HashMap;
 

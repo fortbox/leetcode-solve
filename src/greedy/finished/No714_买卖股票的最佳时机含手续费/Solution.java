@@ -1,4 +1,4 @@
-package greedy.No714_买卖股票的最佳时机含手续费;
+package greedy.finished.No714_买卖股票的最佳时机含手续费;
 
 public class Solution {
     public int maxProfit(int[] prices, int fee) {

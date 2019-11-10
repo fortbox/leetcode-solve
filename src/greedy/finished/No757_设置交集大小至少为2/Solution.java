@@ -1,4 +1,4 @@
-package greedy.No757_设置交集大小至少为2;
+package greedy.finished.No757_设置交集大小至少为2;
 
 import java.util.ArrayList;
 import java.util.Arrays;

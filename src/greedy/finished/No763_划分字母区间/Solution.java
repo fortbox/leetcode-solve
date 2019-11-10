@@ -1,4 +1,4 @@
-package greedy.No763_划分字母区间;
+package greedy.finished.No763_划分字母区间;
 
 import java.util.*;
 

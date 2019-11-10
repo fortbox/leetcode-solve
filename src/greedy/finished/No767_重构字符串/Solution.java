@@ -1,4 +1,4 @@
-package greedy.No767_重构字符串;
+package greedy.finished.No767_重构字符串;
 
 import java.util.Arrays;
 

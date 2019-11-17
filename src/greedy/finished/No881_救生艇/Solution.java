@@ -1,4 +1,4 @@
-package greedy.No881_救生艇;
+package greedy.finished.No881_救生艇;
 
 import java.util.Arrays;
 

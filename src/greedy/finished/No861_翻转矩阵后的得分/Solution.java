@@ -1,4 +1,4 @@
-package greedy.No861_翻转矩阵后的得分;
+package greedy.finished.No861_翻转矩阵后的得分;
 
 public class Solution {
     public int matrixScore(int[][] A) {

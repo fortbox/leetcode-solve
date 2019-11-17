@@ -1,4 +1,4 @@
-package greedy.No910_最小差值II;
+package greedy.finished.No910_最小差值II;
 
 import java.util.Arrays;
 
@@ -6,7 +6,7 @@ public class Solution {
     public static void main(String[] args) {
         int[] a = {10, 7, 1};
         int k = 3;
-        smallestRangeII(a, k);
+        System.out.println("smallestRangeII(a, k) = " + smallestRangeII(a, k));
     }
 
 

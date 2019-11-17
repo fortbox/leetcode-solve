@@ -1,4 +1,4 @@
-package greedy.No870_优势洗牌;
+package greedy.finished.No870_优势洗牌;
 
 import java.util.Arrays;
 

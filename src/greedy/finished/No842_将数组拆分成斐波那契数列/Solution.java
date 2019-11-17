@@ -1,4 +1,4 @@
-package greedy.No842_将数组拆分成斐波那契数列;
+package greedy.finished.No842_将数组拆分成斐波那契数列;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package greedy.No921_使括号有效的最少添加;
+package greedy.finished.No921_使括号有效的最少添加;
 
 import java.util.Stack;
 

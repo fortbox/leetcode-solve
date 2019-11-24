@@ -1,4 +1,4 @@
-package greedy.No984_不含AAA或BBB的字符串;
+package greedy.finished.No984_不含AAA或BBB的字符串;
 
 public class Solution {
     public String strWithout3a3b(int A, int B) {

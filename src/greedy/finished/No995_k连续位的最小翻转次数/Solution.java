@@ -1,4 +1,4 @@
-package greedy.No995_k连续位的最小翻转次数;
+package greedy.finished.No995_k连续位的最小翻转次数;
 
 public class Solution {
     public int minKBitFlips(int[] A, int K) {

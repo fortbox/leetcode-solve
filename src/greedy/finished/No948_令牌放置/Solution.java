@@ -1,4 +1,4 @@
-package greedy.No948_令牌放置;
+package greedy.finished.No948_令牌放置;
 
 import java.util.Arrays;
 

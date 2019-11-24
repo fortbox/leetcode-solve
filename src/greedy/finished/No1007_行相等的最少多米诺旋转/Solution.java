@@ -1,4 +1,4 @@
-package greedy.No1007_行相等的最少多米诺旋转;
+package greedy.finished.No1007_行相等的最少多米诺旋转;
 
 
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package greedy.No936_戳印序列;
+package greedy.finished.No936_戳印序列;
 
 import java.util.*;
 

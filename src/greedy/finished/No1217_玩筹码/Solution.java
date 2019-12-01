@@ -1,4 +1,4 @@
-package greedy.No1217_玩筹码;
+package greedy.finished.No1217_玩筹码;
 
 public class Solution {
     public int minCostToMoveChips(int[] chips) {

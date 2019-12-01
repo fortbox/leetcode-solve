@@ -1,4 +1,4 @@
-package greedy.No1090_受标签影响的最大值;
+package greedy.finished.No1090_受标签影响的最大值;
 
 import java.util.ArrayList;
 import java.util.Arrays;

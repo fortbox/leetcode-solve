@@ -1,4 +1,4 @@
-package greedy.No1094_拼车;
+package greedy.finished.No1094_拼车;
 
 import java.util.Arrays;
 

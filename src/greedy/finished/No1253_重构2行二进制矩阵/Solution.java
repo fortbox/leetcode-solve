@@ -1,4 +1,4 @@
-package greedy.No1253_重构2行二进制矩阵;
+package greedy.finished.No1253_重构2行二进制矩阵;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package greedy.No1247_交换字符使得字符串相同;
+package greedy.finished.No1247_交换字符使得字符串相同;
 
 public class Solution {
     public int minimumSwap(String s1, String s2) {

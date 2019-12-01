@@ -1,4 +1,4 @@
-package greedy.No1221_分割平衡字符串;
+package greedy.finished.No1221_分割平衡字符串;
 
 public class Solution {
     public int balancedStringSplit(String s) {

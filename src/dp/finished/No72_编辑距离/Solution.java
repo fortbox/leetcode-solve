@@ -3,7 +3,7 @@
  * @Author:henry.xiao.cn@outlook.com
  */
 
-package dp.No72_编辑距离;
+package dp.finished.No72_编辑距离;
 
 class Solution {
     public int minDistance(String word1, String word2) {

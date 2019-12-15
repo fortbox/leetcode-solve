@@ -1,4 +1,9 @@
-package dp.No10_正则表达式匹配;
+/*
+ * Copyright (c) 2019
+ * @Author:henry.xiao.cn@outlook.com
+ */
+
+package dp.finished.No10_正则表达式匹配;
 
 public class Solution {
     public boolean isMatch(String s, String p) {

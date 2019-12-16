@@ -3,7 +3,7 @@
  * @Author:henry.xiao.cn@outlook.com
  */
 
-package dp.No85_最大矩形;
+package dp.finished.No85_最大矩形;
 
 class Solution {
     public int maximalRectangle(char[][] matrix) {

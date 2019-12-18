@@ -3,7 +3,7 @@
  * @Author:xiaoweixiang
  */
 
-package dp.No97_交错字符串;
+package dp.finished.No97_交错字符串;
 
 public class Solution {
     public boolean isInterleave(String s1, String s2, String s3) {

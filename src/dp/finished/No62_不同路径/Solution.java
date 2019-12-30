@@ -3,7 +3,7 @@
  * @Author:xiaoweixiang
  */
 
-package dp.No62_不同路径;
+package dp.finished.No62_不同路径;
 
 class Solution {
     public static void main(String[] args) {

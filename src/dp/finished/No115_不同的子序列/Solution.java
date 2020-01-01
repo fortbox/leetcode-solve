@@ -3,7 +3,7 @@
  * @Author:xiaoweixiang
  */
 
-package dp.No115_不同的子序列;
+package dp.finished.No115_不同的子序列;
 
 public class Solution {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@
  * @Author:xiaoweixiang
  */
 
-package dp.No132_分割回文串II;
+package dp.finished.No132_分割回文串II;
 
 public class Solution {
     public int minCut(String s) {

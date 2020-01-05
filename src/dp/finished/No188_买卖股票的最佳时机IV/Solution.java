@@ -3,7 +3,7 @@
  * @Author:xiaoweixiang
  */
 
-package dp.No188_买卖股票的最佳时机IV;
+package dp.finished.No188_买卖股票的最佳时机IV;
 
 public class Solution {
     public int maxProfit(int k, int[] prices) {

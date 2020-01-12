@@ -3,7 +3,7 @@
  * @Author:xiaoweixiang
  */
 
-package dp.No410_分割數組的最大值;
+package dp.finished.No410_分割數組的最大值;
 
 public class Solution {
     public int splitArray(int[] nums, int m) {

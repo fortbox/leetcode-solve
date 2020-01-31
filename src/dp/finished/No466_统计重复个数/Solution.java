@@ -3,7 +3,7 @@
  * @Author:xiaoweixiang
  */
 
-package dp.No466_统计重复个数;
+package dp.finished.No466_统计重复个数;
 
 public class Solution {
     public int getMaxRepetitions(String s1, int n1, String s2, int n2) {

@@ -3,7 +3,7 @@
  * @Author:xiaoweixiang
  */
 
-package dp.No174_地下城游戏;
+package dp.finished.No174_地下城游戏;
 
 public class Solution {
     public static void main(String[] args) {

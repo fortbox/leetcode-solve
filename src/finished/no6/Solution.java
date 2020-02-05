@@ -3,7 +3,7 @@
  * @Author:xiaoweixiang
  */
 
-package no6;
+package finished.no6;
 
 public class Solution {
     public static void main(String[] args) {

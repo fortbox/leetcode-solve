@@ -3,7 +3,7 @@
  * @Author:xiaoweixiang
  */
 
-package src.no114;
+package src.finished.no114;
 
 import java.util.LinkedList;
 

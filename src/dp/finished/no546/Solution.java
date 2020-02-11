@@ -3,7 +3,7 @@
  * @Author:xiaoweixiang
  */
 
-package src.dp.no546;
+package src.dp.finished.no546;
 
 public class Solution {
     public int removeBoxes(int[] boxes) {

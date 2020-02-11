@@ -3,7 +3,7 @@
  * @Author:xiaoweixiang
  */
 
-package src.dp.no517;
+package src.dp.finished.no517;
 
 public class Solution {
     public int findMinMoves(int[] machines) {

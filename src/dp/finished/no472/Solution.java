@@ -13,7 +13,7 @@ public class Solution {
     TreeNode root = new TreeNode();
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        no425.Solution solution = new no425.Solution();
         String[] words = {"cat", "cats", "catsdogcats", "dog", "dogcatsdog", "hippopotamuses", "rat", "ratcatdogcat"};
         List<String> list = solution.findAllConcatenatedWordsInADict(words);
         list.forEach(s -> System.out.println("s = " + s));

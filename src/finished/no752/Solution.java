@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no752;
+package finished.no752;
 
 import java.util.Arrays;
 import java.util.HashSet;

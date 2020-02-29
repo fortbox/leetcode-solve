@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-class MyCircularQueue {
+package finished;class MyCircularQueue {
     int [] queue;
     int head=0;
     int tail=0;

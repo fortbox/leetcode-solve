@@ -3,9 +3,8 @@
  * Author: xiaoweixiang
  */
 
-package no279;
+package finished.no279;
 
-import java.util.ArrayDeque;
 import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.Queue;

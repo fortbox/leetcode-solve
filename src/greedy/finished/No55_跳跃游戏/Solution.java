@@ -1,3 +1,5 @@
+package greedy.finished.No55_跳跃游戏;
+
 public class Solution {
     public static void main(String[] args) {
         int[] nums = {3, 2, 1, 0, 4};

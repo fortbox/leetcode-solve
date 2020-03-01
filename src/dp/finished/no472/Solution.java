@@ -1,4 +1,4 @@
-/*
+package dp.finished.no472;/*
  * Copyright (c) 2020
  * @Author:xiaoweixiang
  */
@@ -13,7 +13,7 @@ public class Solution {
     TreeNode root = new TreeNode();
 
     public static void main(String[] args) {
-        finished.no425.Solution solution = new finished.no425.Solution();
+        Solution solution = new Solution();
         String[] words = {"cat", "cats", "catsdogcats", "dog", "dogcatsdog", "hippopotamuses", "rat", "ratcatdogcat"};
         List<String> list = solution.findAllConcatenatedWordsInADict(words);
         list.forEach(s -> System.out.println("s = " + s));

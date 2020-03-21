@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-import java.util.*;
+package finished;import java.util.*;
 
 public class Solution {
     public boolean isValid(String s) {

@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-import java.util.Stack;
+package finished;import java.util.Stack;
 
 class MinStack {
 

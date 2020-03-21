@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no102;
+package finished.no102;
 
 
 import java.util.ArrayList;

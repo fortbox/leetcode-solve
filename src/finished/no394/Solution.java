@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no394;
+package finished.no394;
 
 import java.util.Stack;
 

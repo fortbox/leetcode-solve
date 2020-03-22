@@ -3,7 +3,7 @@
  * @Author:xiaoweixiang
  */
 
-package henry;
+package finished.com.henry;
 
 import java.util.HashSet;
 import java.util.TreeSet;

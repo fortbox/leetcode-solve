@@ -1,3 +1,5 @@
+package greedy.finished.No135_分发糖果;
+
 class Solution {
     public static void main(String[] args) {
         int[] ratings = {1, 2, 87, 87, 87, 2, 1};

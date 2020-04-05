@@ -3,7 +3,7 @@
  * @Author:xiaoweixiang
  */
 
-package finished.com;
+package com;
 
 import java.util.HashMap;
 import java.util.HashSet;

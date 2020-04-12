@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no285_二叉搜索树中的顺序后继;
+package tree.finished.no285_二叉搜索树中的顺序后继;
 
 
 import java.util.ArrayList;

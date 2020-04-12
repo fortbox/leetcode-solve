@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no255_验证前序遍历序列二叉搜索树;
+package tree.finished.no255_验证前序遍历序列二叉搜索树;
 
 import java.util.Stack;
 

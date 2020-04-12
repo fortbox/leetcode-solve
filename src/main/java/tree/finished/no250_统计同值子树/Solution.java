@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no250_统计同值子树;
+package tree.finished.no250_统计同值子树;
 
 
 class Solution {

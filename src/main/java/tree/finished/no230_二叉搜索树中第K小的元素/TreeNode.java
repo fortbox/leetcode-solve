@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no230_二叉搜索树中第K小的元素;
+package tree.finished.no230_二叉搜索树中第K小的元素;
 
 
 //  Definition for a binary tree node.

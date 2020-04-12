@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no222_完全二叉树的结点个数;
+package tree.finished.no222_完全二叉树的结点个数;
 
 import java.util.LinkedList;
 import java.util.Queue;

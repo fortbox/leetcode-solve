@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no298_二叉树最长连续序列;
+package tree.finished.no298_二叉树最长连续序列;
 
 
 //  Definition for a binary tree node.

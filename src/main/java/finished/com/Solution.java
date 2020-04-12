@@ -1,9 +1,9 @@
 /*
  * Copyright (c) 2020
- * @Author:xiaoweixiang
+ * Author: xiaoweixiang
  */
 
-package com;
+package finished.com;
 
 import java.util.HashMap;
 import java.util.HashSet;

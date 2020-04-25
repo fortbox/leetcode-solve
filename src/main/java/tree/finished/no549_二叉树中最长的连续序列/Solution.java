@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no549_二叉树中最长的连续序列;
+package tree.finished.no549_二叉树中最长的连续序列;
 
 
 class Solution {

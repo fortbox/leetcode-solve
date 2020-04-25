@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no426;
+package tree.finished.no426;
 
 
 // Definition for a Node.

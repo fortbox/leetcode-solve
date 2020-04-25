@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no520;
+package tree.finished.no520;
 
 class Solution {
     public Node inorderSuccessor(Node node) {

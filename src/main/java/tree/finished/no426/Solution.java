@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no426;
+package tree.finished.no426;
 
 class Solution {
     Node first = null;

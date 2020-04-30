@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no663;
+package tree.finished.no663;
 
 // Definition for a binary tree node.
 public class TreeNode {

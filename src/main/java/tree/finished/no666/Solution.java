@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no666;
+package tree.finished.no666;
 
 public class Solution {
     public static void main(String[] args) {

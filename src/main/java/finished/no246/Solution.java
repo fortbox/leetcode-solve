@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no246;
+package finished.no246;
 
 class Solution {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no256;
+package finished.no256;
 
 class Solution {
     public static void main(String[] args) {

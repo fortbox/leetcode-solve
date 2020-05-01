@@ -9,8 +9,7 @@ package finished.no157;
  * The read4 API is defined in the parent class Reader4.
  * int read4(char[] buf);
  */
-
-public class Solution extends Reader4 {
+public class Solution {
     /**
      * @param buf Destination buffer
      * @param n   Number of characters to read
@@ -21,7 +20,8 @@ public class Solution extends Reader4 {
         int index = 0;
         while (true) {
             char[] chars = new char[4];
-            int tmp = read4(chars);
+            //int tmp = read4(chars);
+            int tmp = 0;
             if (k + tmp >= n) {
                 for (int i = 0; i < tmp && index < n; i++) {
                     buf[index++] = chars[i];
@@ -29,7 +29,7 @@ public class Solution extends Reader4 {
                 return n;
             }
             for (int i = 0; i < tmp; i++) {
-                buf[index++] = char
+                buf[index++] = chars[i];
             }
             if (tmp == 0) {
                 break;

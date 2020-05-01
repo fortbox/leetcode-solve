@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no266;
+package finished.no266;
 
 import java.util.HashMap;
 import java.util.Map;

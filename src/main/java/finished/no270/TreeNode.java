@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no270;
+package finished.no270;
 
 
 //  Definition for a binary tree node.

@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no270;
+package finished.no270;
 
 class Solution {
     public int res = Integer.MAX_VALUE;

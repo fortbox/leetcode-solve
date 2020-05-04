@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no800;
+package finished.no800;
 
 public class Solution {
 }

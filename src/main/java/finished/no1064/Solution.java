@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1064;
+package finished.no1064;
 
 class Solution {
     public int fixedPoint(int[] A) {

@@ -2,6 +2,11 @@
 #  Author: xiaoweixiang
 class Solution:
     def confusingNumber(self, N: int) -> bool:
+        '''
+        参考其他人的Python写法
+        :param N:
+        :return:
+        '''
         d = {'0': '0', '1': '1', '6': '9', '8': '8', '9': '6'}
         ans = ''
         s = str(N)

@@ -5,5 +5,10 @@
 
 package no1150;
 
-public class Solution {
+import java.util.Arrays;
+
+class Solution {
+    public boolean isMajorityElement(int[] nums, int target) {
+        return Arrays.stream(nums).filter(i -> i == target).count() > nums.length / 2;
+    }
 }

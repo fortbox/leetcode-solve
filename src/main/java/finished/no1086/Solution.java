@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1086;
+package finished.no1086;
 
 import java.util.*;
 import java.util.stream.Collectors;

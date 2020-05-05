@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1165;
+package finished.no1165;
 
 class Solution {
     public int calculateTime(String keyboard, String word) {

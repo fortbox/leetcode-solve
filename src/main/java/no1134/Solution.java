@@ -5,5 +5,14 @@
 
 package no1134;
 
-public class Solution {
+class Solution {
+    public boolean isArmstrong(int N) {
+        String s = String.valueOf(N);
+        int ans = 0;
+        for (int i = 0; i < s.length(); i++) {
+            ans += (int) Math.pow((s.charAt(i) - '0'), s.length());
+            if (ans > N) return false;
+        }
+        return ans == N;
+    }
 }

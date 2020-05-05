@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1134;
+package finished.no1134;
 
 class Solution {
     public boolean isArmstrong(int N) {

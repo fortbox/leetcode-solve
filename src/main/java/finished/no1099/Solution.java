@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1099;
+package finished.no1099;
 
 import java.util.Arrays;
 import java.util.TreeSet;

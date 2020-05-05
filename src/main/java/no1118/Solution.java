@@ -5,5 +5,11 @@
 
 package no1118;
 
-public class Solution {
+import java.time.LocalDate;
+import java.time.temporal.TemporalAdjusters;
+
+class Solution {
+    public int numberOfDays(int Y, int M) {
+        return LocalDate.of(Y, M, 1).with(TemporalAdjusters.lastDayOfMonth()).getDayOfMonth();
+    }
 }

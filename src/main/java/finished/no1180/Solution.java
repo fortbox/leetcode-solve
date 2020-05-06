@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1180;
+package finished.no1180;
 
 class Solution {
     public static int countLetters(String S) {

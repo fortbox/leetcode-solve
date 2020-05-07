@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1228;
+package finished.others.finished.no1228;
 
 class Solution {
     public int missingNumber(int[] arr) {

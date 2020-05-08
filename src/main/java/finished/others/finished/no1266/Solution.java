@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1266;
+package finished.others.finished.no1266;
 
 class Solution {
     public int minTimeToVisitAllPoints(int[][] points) {

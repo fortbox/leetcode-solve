@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1252;
+package finished.others.finished.no1252;
 
 class Solution {
     public int oddCells(int n, int m, int[][] indices) {

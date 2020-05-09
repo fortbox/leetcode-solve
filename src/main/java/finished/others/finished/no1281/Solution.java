@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1281;
+package finished.others.finished.no1281;
 
 class Solution {
     public int subtractProductAndSum(int n) {

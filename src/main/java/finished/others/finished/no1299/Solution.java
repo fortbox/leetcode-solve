@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1299;
+package finished.others.finished.no1299;
 
 class Solution {
     public int[] replaceElements(int[] arr) {

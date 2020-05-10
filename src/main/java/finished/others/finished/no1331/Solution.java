@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1331;
+package finished.others.finished.no1331;
 
 import java.util.Arrays;
 import java.util.Map;

@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1275;
+package finished.others.finished.no1275;
 
 class Solution {
     public String tictactoe(int[][] moves) {

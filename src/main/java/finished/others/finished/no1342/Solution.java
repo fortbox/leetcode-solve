@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1342;
+package finished.others.finished.no1342;
 
 class Solution {
     public static int numberOfSteps(int num) {

@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1309;
+package finished.others.finished.no1309;
 
 class Solution {
     public String freqAlphabets(String s) {

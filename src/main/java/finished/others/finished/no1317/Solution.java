@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1317;
+package finished.others.finished.no1317;
 
 class Solution {
     public int[] getNoZeroIntegers(int n) {

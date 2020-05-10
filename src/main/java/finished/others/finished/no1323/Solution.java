@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1323;
+package finished.others.finished.no1323;
 
 class Solution {
     public int maximum69Number(int num) {

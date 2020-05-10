@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1304;
+package finished.others.finished.no1304;
 
 class Solution {
     public int[] sumZero(int n) {

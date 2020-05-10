@@ -1,12 +1,13 @@
-package no1313;
-
-import java.util.ArrayList;
-import java.util.List;
-
 /*
  * Copyright (c) 2020
  * Author: xiaoweixiang
  */
+
+package finished.others.finished.no1313;
+
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public int[] decompressRLElist(int[] nums) {
         List<Integer> list = new ArrayList<>();

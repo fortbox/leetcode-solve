@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1332;
+package finished.others.finished.no1332;
 
 class Solution {
     public static void main(String[] args) {

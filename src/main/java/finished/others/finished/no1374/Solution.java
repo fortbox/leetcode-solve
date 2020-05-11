@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1374;
+package finished.others.finished.no1374;
 
 class Solution {
     public String generateTheString(int n) {

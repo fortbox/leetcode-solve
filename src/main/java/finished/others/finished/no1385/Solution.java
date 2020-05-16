@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1385;
+package finished.others.finished.no1385;
 
 class Solution {
     public int findTheDistanceValue(int[] arr1, int[] arr2, int d) {

@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1427;
+package finished.others.finished.no1427;
 
 class Solution {
     public String stringShift(String s, int[][] shift) {

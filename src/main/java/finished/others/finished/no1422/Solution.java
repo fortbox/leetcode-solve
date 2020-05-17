@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1422;
+package finished.others.finished.no1422;
 
 class Solution {
     public int maxScore(String s) {

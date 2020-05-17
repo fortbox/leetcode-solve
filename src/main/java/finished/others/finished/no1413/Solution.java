@@ -1,9 +1,10 @@
-package no1413;
-
 /*
  * Copyright (c) 2020
  * Author: xiaoweixiang
  */
+
+package finished.others.finished.no1413;
+
 class Solution {
     public int minStartValue(int[] nums) {
         int ans = 1;

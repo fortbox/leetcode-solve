@@ -36,6 +36,13 @@ what do you want?
 no matter what you do
 truth is there
 
+2020-05-23
+English is also my language。
+Python is also my language。
+我不止只有一种语言。
+我有两种母语。
+
+
 
 
 

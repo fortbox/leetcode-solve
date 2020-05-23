@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no684;
+package finished.tree.finished.no684;
 
 public class UnionFind {
     int size;

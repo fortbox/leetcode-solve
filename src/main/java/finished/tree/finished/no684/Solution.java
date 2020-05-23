@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no684;
+package finished.tree.finished.no684;
 
 class Solution {
     public int[] findRedundantConnection(int[][] edges) {

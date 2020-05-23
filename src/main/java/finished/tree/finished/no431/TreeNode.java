@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no431;
+package finished.tree.finished.no431;
 
 
 //  Definition for a binary tree node.

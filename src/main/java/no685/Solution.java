@@ -6,6 +6,6 @@
 package no685;
 
 class Solution {
-    public int[] findRedundantDirectedConnection(int[][] edges) {
-    }
+//    public int[] findRedundantDirectedConnection(int[][] edges) {
+//    }
 }

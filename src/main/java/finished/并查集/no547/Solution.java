@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no547;
+package finished.并查集.no547;
 
 class Solution {
     public int findCircleNum(int[][] M) {

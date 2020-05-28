@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package lcp11;
+package finished.others.finished.lcp11;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

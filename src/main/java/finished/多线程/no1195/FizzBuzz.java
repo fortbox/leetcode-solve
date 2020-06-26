@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1195;
+package finished.多线程.no1195;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

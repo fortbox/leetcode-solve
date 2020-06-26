@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1117;
+package finished.多线程.no1117;
 
 import java.util.concurrent.Semaphore;
 

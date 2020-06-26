@@ -3,18 +3,18 @@
  * Author: xiaoweixiang
  */
 
-package no1116;
+package finished.多线程.no1116;
 
 import java.util.concurrent.Semaphore;
 import java.util.function.IntConsumer;
 
 class ZeroEvenOdd {
+    private final int n;
     Semaphore zeroLock = new Semaphore(1);
     Semaphore evenLock = new Semaphore(0);
     Semaphore oddLock = new Semaphore(0);
     boolean isReverse = false;
     int x = 0;
-    private int n;
 
     public ZeroEvenOdd(int n) {
         this.n = n;

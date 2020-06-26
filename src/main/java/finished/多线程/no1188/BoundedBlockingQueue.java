@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1188;
+package finished.多线程.no1188;
 
 import java.util.LinkedList;
 import java.util.Queue;

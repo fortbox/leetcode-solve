@@ -8,19 +8,18 @@ package no1115;
 import java.util.concurrent.Semaphore;
 
 class FooBar {
-    Semaphore fooLock = new Semaphore(1);
-    Semaphore barLock = new Semaphore(0);
     /**
      *
      */
-    private int n;
+    private final int n;
+    Semaphore fooLock = new Semaphore(1);
+    Semaphore barLock = new Semaphore(0);
 
     public FooBar(int n) {
         this.n = n;
     }
 
     public void foo(Runnable printFoo) throws InterruptedException {
-
         for (int i = 0; i < n; i++) {
             fooLock.acquire(1);
             // printFoo.run() outputs "foo". Do not change or remove this line.

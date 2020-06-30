@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package cxy1621;
+package finished.程序员面试宝典.cxy1621;
 
 import java.util.Arrays;
 

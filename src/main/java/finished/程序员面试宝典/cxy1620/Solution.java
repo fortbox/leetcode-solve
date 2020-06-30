@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package cxy1620;
+package finished.程序员面试宝典.cxy1620;
 
 import java.util.ArrayList;
 import java.util.HashMap;

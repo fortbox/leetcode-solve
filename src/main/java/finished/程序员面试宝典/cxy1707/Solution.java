@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package cxy1707;
+package finished.程序员面试宝典.cxy1707;
 
 import java.util.*;
 

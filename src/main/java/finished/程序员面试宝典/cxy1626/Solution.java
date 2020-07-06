@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package cxy1626;
+package finished.程序员面试宝典.cxy1626;
 
 import java.util.ArrayDeque;
 

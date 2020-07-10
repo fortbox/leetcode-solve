@@ -21,6 +21,7 @@ public class TrieTree {
             node = node.next.get(c);
         }
         node.isLeaf = true;
+        node.word=word;
     }
 
     public boolean search(String word) {

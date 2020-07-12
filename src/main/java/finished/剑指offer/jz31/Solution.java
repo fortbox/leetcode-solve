@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package jz31;
+package finished.剑指offer.jz31;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

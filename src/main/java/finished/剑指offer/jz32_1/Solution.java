@@ -2,7 +2,7 @@
  * Copyright (c) 2020
  * Author: xiaoweixiang
  */
-package jz32_1;
+package finished.剑指offer.jz32_1;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

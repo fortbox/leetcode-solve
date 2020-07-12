@@ -2,7 +2,7 @@
  * Copyright (c) 2020
  * Author: xiaoweixiang
  */
-package jz32_2;
+package finished.剑指offer.jz32_2;
 
 import tool.TreeNode;
 

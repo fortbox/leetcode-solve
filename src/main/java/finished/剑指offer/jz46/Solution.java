@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package jz46;
+package finished.剑指offer.jz46;
 
 import java.util.Arrays;
 

@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package jz36;
+package finished.剑指offer.jz36;
 
 
 class Solution {

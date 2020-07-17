@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package jz59;
+package finished.剑指offer.jz59;
 
 import java.util.LinkedList;
 import java.util.PriorityQueue;

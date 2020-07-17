@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package jz67;
+package finished.剑指offer.jz67;
 
 import java.math.BigDecimal;
 

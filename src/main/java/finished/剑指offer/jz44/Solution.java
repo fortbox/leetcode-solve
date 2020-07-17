@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package jz44;
+package finished.剑指offer.jz44;
 
 class Solution {
     public static int findNthDigit(int n) {

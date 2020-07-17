@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package jz35;
+package finished.剑指offer.jz35;
 
 
 import java.util.ArrayList;

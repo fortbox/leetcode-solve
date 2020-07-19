@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1379;
+package finished.tree.finished.no1379;
 
 import tool.TreeNode;
 

@@ -1,4 +1,9 @@
-package jz47;
+/*
+ * Copyright (c) 2020
+ * Author: xiaoweixiang
+ */
+
+package finished.剑指offer.jz47;
 
 class Solution {
     public int maxValue(int[][] grid) {

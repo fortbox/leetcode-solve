@@ -1,6 +1,9 @@
-package no692;
+/*
+ * Copyright (c) 2020
+ * Author: xiaoweixiang
+ */
 
-import org.jetbrains.annotations.NotNull;
+package finished.others.finished.no692;
 
 import java.util.ArrayList;
 import java.util.List;

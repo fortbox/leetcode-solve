@@ -1,4 +1,9 @@
-package no676;
+/*
+ * Copyright (c) 2020
+ * Author: xiaoweixiang
+ */
+
+package finished.others.finished.no676;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -38,7 +43,7 @@ class MagicDictionary {
     }
 
     class TrieTree {
-        private TrieNode root;
+        private final TrieNode root;
 
         public TrieTree() {
             root = new TrieNode();

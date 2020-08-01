@@ -1,6 +1,9 @@
-package jz43;
+/*
+ * Copyright (c) 2020
+ * Author: xiaoweixiang
+ */
 
-import java.util.HashMap;
+package finished.剑指offer.jz43;
 
 class Solution {
     public static void main(String[] args) {

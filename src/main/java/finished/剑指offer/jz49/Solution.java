@@ -1,4 +1,9 @@
-package jz49;
+/*
+ * Copyright (c) 2020
+ * Author: xiaoweixiang
+ */
+
+package finished.剑指offer.jz49;
 
 class Solution {
     public int nthUglyNumber(int n) {

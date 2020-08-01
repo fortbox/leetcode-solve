@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no63;
+package finished.others.finished.no63;
 
 class Solution {
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {

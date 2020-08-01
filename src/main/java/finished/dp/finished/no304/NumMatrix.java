@@ -1,4 +1,4 @@
-package no304;
+package finished.dp.finished.no304;
 
 class NumMatrix {
     private int row;

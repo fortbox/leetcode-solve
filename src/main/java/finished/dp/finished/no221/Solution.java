@@ -1,4 +1,4 @@
-package no221;
+package finished.dp.finished.no221;
 
 class Solution {
     public int maximalSquare(char[][] matrix) {

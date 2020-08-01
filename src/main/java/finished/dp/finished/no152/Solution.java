@@ -1,4 +1,4 @@
-package no152;
+package finished.dp.finished.no152;
 
 class Solution {
     public int maxProduct(int[] nums) {

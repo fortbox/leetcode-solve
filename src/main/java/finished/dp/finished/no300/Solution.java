@@ -1,4 +1,4 @@
-package no300;
+package finished.dp.finished.no300;
 
 class Solution {
     public int lengthOfLIS(int[] nums) {

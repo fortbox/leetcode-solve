@@ -1,4 +1,4 @@
-package no322;
+package finished.dp.finished.no322;
 
 class Solution {
     public static void main(String[] args) {

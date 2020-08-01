@@ -1,4 +1,4 @@
-package no1523;
+package finished.dp.finished.no1523;
 
 class Solution {
     public int countOdds(int low, int high) {

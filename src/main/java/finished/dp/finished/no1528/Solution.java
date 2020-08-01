@@ -1,4 +1,4 @@
-package no1528;
+package finished.dp.finished.no1528;
 
 import java.util.Map;
 import java.util.TreeMap;

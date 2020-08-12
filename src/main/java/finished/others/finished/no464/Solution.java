@@ -1,4 +1,4 @@
-package no464;
+package finished.others.finished.no464;
 
 class Solution {
     public boolean canIWin(int maxChoosableInteger, int desiredTotal) {

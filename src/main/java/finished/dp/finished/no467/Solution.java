@@ -1,4 +1,4 @@
-package no467;
+package finished.dp.finished.no467;
 
 import java.util.HashMap;
 import java.util.Map;

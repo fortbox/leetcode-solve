@@ -1,4 +1,4 @@
-package no368;
+package finished.dp.finished.no368;
 
 import java.util.*;
 import java.util.stream.Collectors;

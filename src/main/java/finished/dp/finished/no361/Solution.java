@@ -1,4 +1,4 @@
-package no361;
+package finished.dp.finished.no361;
 
 class Solution {
     public int maxKilledEnemies(char[][] grid) {

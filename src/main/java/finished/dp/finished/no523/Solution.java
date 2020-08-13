@@ -1,4 +1,4 @@
-package no523;
+package finished.dp.finished.no523;
 
 import java.util.Arrays;
 

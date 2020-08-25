@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no153;
+package finished.others.finished.no153;
 
 class Solution {
     public int findMin(int[] nums) {

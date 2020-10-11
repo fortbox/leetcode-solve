@@ -9,8 +9,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class EdgeNode {
-    int source;
-    List<Integer> desList;
+    public int source;
+    public List<Integer> desList;
 
     public EdgeNode(int source) {
         this.source = source;

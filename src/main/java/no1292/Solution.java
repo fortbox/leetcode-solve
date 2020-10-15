@@ -18,9 +18,9 @@ class Solution {
         }
         int res = 0;
         int low = 1, high = Math.min(height, width);
-        while (low < high) {
+        while (low <= high) {
             int mid = low + (high - low) / 2;
-            if (isValid(mat, area, mid, threshold)) {
+            if (isValid(mat, area, threshold, mid)) {
                 res = mid;
                 low = mid + 1;
             } else {
@@ -30,10 +30,10 @@ class Solution {
         return res;
     }
 
-    private boolean isValid(int[][] mat, int[][] area, int threshold, int mid) {
-        for (int i = mid; i <= mat.length; i++) {
-            for (int j = mid; j <= mat[0].length; j++) {
-                if (area[i][j] - area[i - mid][j] - area[i][j - mid] + area[i - mid][j - mid] <= threshold) {
+    private boolean isValid(int[][] mat, int[][] area, int threshold, int k) {
+        for (int i = k; i <= mat.length; i++) {
+            for (int j = k; j <= mat[0].length; j++) {
+                if (area[i][j] - area[i - k][j] - area[i][j - k] + area[i - k][j - k] <= threshold) {
                     return true;
                 }
             }

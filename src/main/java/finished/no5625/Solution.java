@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no5625;
+package finished.no5625;
 
 class Solution {
     public int numberOfMatches(int n) {

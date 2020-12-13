@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1678;
+package finished.no1678;
 
 class Solution {
     public String interpret(String command) {

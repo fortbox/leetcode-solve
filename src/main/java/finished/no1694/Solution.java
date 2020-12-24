@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1694;
+package finished.no1694;
 
 class Solution {
     public String reformatNumber(String number) {

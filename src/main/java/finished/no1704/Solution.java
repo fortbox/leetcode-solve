@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1704;
+package finished.no1704;
 
 class Solution {
     String ss = "aeiouAEIOU";

@@ -5,17 +5,8 @@
 
 package test;
 
-import com.google.common.base.Preconditions;
-import com.google.common.collect.Lists;
 import lombok.Builder;
 import lombok.Data;
-import lombok.var;
-
-import javax.annotation.Nullable;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.Objects;
 
 @Data
 @Builder
@@ -58,10 +49,10 @@ public class Phone{
 //    }
 //
     public static void main(String[] args) {
-        Phone phone = Phone.builder().card(123).number(456).build();
+//        Phone phone = Phone.builder().card(123).number(456).build();
 //        Phone phone1 = Phone.of(50, 50);
 
-        System.out.println("phone.toString() = " + phone.toString());
+//        System.out.println("phone.toString() = " + phone.toString());
 //        System.out.println("phone.compareTo(phone1) = " + phone.compareTo(phone1));
 //        ArrayList<Phone> list = Lists.newArrayList(phone1, phone);
 //        Collections.sort(list);

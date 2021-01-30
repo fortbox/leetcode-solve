@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1707;
+package finished.tree.finished.no1707;
 
 import java.util.Arrays;
 import java.util.Comparator;

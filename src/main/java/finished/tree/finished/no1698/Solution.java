@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1698;
+package finished.tree.finished.no1698;
 
 import java.util.HashSet;
 

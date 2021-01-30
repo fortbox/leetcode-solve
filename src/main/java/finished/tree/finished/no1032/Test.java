@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1032;
+package finished.tree.finished.no1032;
 
 public class Test {
     public static void main(String[] args) {

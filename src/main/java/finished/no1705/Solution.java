@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1705;
+package finished.no1705;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

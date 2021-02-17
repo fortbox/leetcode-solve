@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1541;
+package finished.no1541;
 
 class Solution {
     public int minInsertions(String s) {

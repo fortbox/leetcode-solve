@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no1054;
+package finished.no1054;
 
 import java.util.HashMap;
 import java.util.PriorityQueue;

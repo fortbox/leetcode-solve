@@ -3,7 +3,7 @@
  * Author: xiaoweixiang
  */
 
-package no355;
+package finished.no355;
 
 import java.util.*;
 
